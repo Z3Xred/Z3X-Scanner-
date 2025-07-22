@@ -12,3 +12,5 @@
 ```bash
 pip install pyfiglet requests dnspython whois tqdm tabulate
 ```
+
+المطور : Z3X
